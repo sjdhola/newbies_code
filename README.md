@@ -1,5 +1,5 @@
 # newbie's_code
-Tracker repo for newbies code 🔰 
+Tracker repo for newbies 🔰 
 # Folder Structure
 ```
 ├── Parth
