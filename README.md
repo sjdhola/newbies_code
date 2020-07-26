@@ -1,5 +1,5 @@
 # newbie's_code
-
+Tracker repo for newbies code 🔰 
 # Folder Structure
 ```
 ├── Parth
@@ -19,9 +19,12 @@ Try to maintain ```👆above``` folder structure.
  ```
  
  - To push your code to the repo
- ```bash
- git pull
- git add .
- git commit -m "your track message"
- git push
- ```
+   - add code file into your folder according to your folder structure.
+   - Next run the ```following 👇``` commands to push your code.
+   
+    ```bash
+    git pull
+    git add .
+    git commit -m "your track message"
+    git push
+    ```
