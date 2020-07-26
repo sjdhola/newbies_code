@@ -19,8 +19,8 @@ Try to maintain ```👆above``` folder structure.
  ```
  
  - To push your code to the repo
-   - add code file into your folder according to your folder structure.
-   - Next run the ```following 👇``` commands to push your code.
+   - Add code file into your folder according to your folder structure.
+   - Next run the following 👇 commands to push your code.
    
     ```bash
     git pull
