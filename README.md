@@ -15,7 +15,7 @@ Try to maintain ```👆above``` folder structure.
 
 - First clone the repo
  ```bash
-  git clone https://github.com/chauhanparth210/sample.git
+  git clone https://github.com/chauhanparth210/newbies_code.git
  ```
  
  - To push your code to the repo
