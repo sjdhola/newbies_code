@@ -20,6 +20,7 @@ Try to maintain ```👆above``` folder structure.
  
  - To push your code to the repo
    - Add code file into your folder according to your folder structure.
+   - Goto root of the repo(folder).
    - Next run the following 👇 commands to push your code.
    
     ```bash
